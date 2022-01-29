@@ -4,12 +4,12 @@
     "icons": 
     [ 
         { 
-            "src": "/assets/favicon.png", 
+            "src": "/assets/img/favicon.png", 
             "type": "image/png", 
             "sizes": "123x128" 
         } 
     ],
-    "start_url": "/AboutMe/", 
+    "start_url": "https://github.com/2Lost4This/2lost4this.github.io", 
     "background_color": "#3367D6", 
     "display": "standalone", 
     "scope": "/", 
