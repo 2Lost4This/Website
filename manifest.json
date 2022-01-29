@@ -1,0 +1,17 @@
+{ 
+    "short_name": "2Lost4This", 
+    "name": "2Lost4This", 
+    "icons": 
+    [ 
+        { 
+            "src": "/assets/favicon.png", 
+            "type": "image/png", 
+            "sizes": "123x128" 
+        } 
+    ],
+    "start_url": "/AboutMe/", 
+    "background_color": "#3367D6", 
+    "display": "standalone", 
+    "scope": "/", 
+    "theme_color": "#3367D6"
+}
